@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khmeelo
+- 👋 Hi, I’m rami
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning MIPS assembly language 
 - 💞️ I’m looking to collaborate on ...
